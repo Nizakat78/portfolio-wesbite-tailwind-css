@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import { CgMenuOreos } from 'react-icons/cg';
+import React, { useState  } from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 
 const Navbar = () => {
